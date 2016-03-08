@@ -23,6 +23,10 @@ img {
   padding: 10px 20px;
 }
 
+.container_12 .grid_4 {
+    width: 260px;
+  }
+  
 h2 {
   font-size: 14pt;
 }
